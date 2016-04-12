@@ -1,4 +1,4 @@
-{
+module.exports = {
   "code": 200,
   "status": "Ok",
   "copyright": "© 2016 MARVEL",
